@@ -1,0 +1,26 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Models (opsional - jika ukuran besar)
+# models/*.keras
+# models/*.pkl
+
+# Dataset (opsional - jika ukuran besar)
+#dataset/
+lfw_funneled/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
